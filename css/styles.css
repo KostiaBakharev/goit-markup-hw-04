@@ -45,15 +45,6 @@ button {
   cursor: pointer;
 }
 
-ul {
-  list-style: none;
-}
-
-a {
-  text-decoration: none;
-  outline: none;
-}
-
 
 .container {
   max-width: 1158px;
